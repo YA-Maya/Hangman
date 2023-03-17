@@ -2,6 +2,7 @@
 To create my hangman game, I turned to Stack Overflow to find a JSON wordlist with over 50k words, which proved invaluable. Using Python, I carefully planned out the project, despite its relative simplicity. I was inspired to create this game after spending enjoyable hours playing it with my sister during a family gathering, and I wanted to test my abilities by developing it myself.
 
 ## Tech Stack
+- HTML
 - Python
 - Replit
 
