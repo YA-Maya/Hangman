@@ -11,5 +11,11 @@ To create my hangman game, I turned to Stack Overflow to find a JSON wordlist wi
 <img width="527" alt="Capture 5" src="https://user-images.githubusercontent.com/98185508/225889267-f9b4e1ae-bd82-437e-9207-94455ca834a3.PNG">
 
 
+
+
+https://user-images.githubusercontent.com/98185508/225950919-de8cf519-13ea-403a-bfd4-f2f86dc61528.mp4
+
+
+
 ## Author
 - [@YA-Maya](https://github.com/YA-Maya)
