@@ -6,6 +6,9 @@ To create my hangman game, I turned to Stack Overflow to find a JSON wordlist wi
 - Python
 - Replit
 
+## Link
+https://sumeya.tech/Hangman/hangman.html
+
 ## Screenshots
 <img width="527" alt="Capture 6" src="https://user-images.githubusercontent.com/98185508/225889264-f8757524-c72a-4c55-a0d2-a9f8b912adac.PNG">
 <img width="527" alt="Capture 5" src="https://user-images.githubusercontent.com/98185508/225889267-f9b4e1ae-bd82-437e-9207-94455ca834a3.PNG">
